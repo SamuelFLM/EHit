@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EHit.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1aeee9af3c4f36c418b5b6b1881f0ca012e4b678")]
 [assembly: System.Reflection.AssemblyProductAttribute("EHit.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EHit.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
